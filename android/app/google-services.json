@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057447291003",
+    "project_id": "chattingapp-9a391",
+    "storage_bucket": "chattingapp-9a391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057447291003:android:7d39919a07ba535e8adade",
+        "android_client_info": {
+          "package_name": "com.moufedDibou.chatting_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057447291003-scspn3rq5662t39ft1am3vc40mif64fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkijwkq5vBBN42nyxAKHGpz0idjoQFIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057447291003-scspn3rq5662t39ft1am3vc40mif64fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
